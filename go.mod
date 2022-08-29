@@ -17,7 +17,7 @@ require (
 	github.com/liamg/memoryfs v1.4.1
 	github.com/liamg/tml v0.6.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/moby/buildkit v0.10.3
+	github.com/moby/buildkit v0.10.4
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v0.40.0
 	github.com/owenrumney/go-sarif/v2 v2.1.1
@@ -28,7 +28,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
 	golang.org/x/text v0.3.7
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	helm.sh/helm/v3 v3.8.2
 )
 
@@ -61,7 +61,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/docker/cli v20.10.13+incompatible // indirect
-	github.com/docker/distribution v2.8.0+incompatible // indirect
+	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
