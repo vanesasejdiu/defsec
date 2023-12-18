@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/bmatcuk/doublestar v1.3.4
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.5.0
 	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/hcl/v2 v2.12.0
