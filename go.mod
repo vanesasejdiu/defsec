@@ -15,20 +15,20 @@ require (
 	github.com/liamg/iamgo v0.0.6
 	github.com/liamg/jfather v0.0.7
 	github.com/liamg/memoryfs v1.4.1
-	github.com/liamg/tml v0.6.0
+	github.com/liamg/tml v0.7.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/buildkit v0.10.3
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v0.40.0
 	github.com/owenrumney/go-sarif/v2 v2.1.1
 	github.com/owenrumney/squealer v1.0.1-0.20220510063705-c0be93f0edea
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.8.3
 	github.com/zclconf/go-cty v1.10.0
 	github.com/zclconf/go-cty-yaml v1.0.2
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
 	golang.org/x/text v0.3.7
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.8.2
 )
 
